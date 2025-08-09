@@ -1,4 +1,4 @@
-module github.com/vibtreeofficial/mediatransportutil
+module github.com/rahulVibtree/mediatransportutil
 
 go 1.22.10
 
